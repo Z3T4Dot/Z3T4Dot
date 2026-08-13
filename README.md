@@ -156,6 +156,10 @@ The laboratory documents the engineering process rather than only the final conf
 
 🔗 **[View the Wazuh SOC Laboratory](https://github.com/Z3T4Dot/wazuh-soc-lab)**
 
+### ⚙️ Quantum Backend Platform
+Backend platform demonstrating microservice architecture, authentication, asynchronous communication, persistence and containerized infrastructure.
+
+🔗 **[View the Quantum Platform](https://github.com/Z3T4Dot/quantum-backend-platform.git)**
 ---
 
 ### ⚙️ Distributed Microservices Platform
