@@ -1,4 +1,4 @@
-# 👋 Hi, I'm César
+# Hi, I'm César
 
 ### Software Engineer · Backend · Distributed Systems · Security
 
